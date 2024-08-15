@@ -1,6 +1,3 @@
-Certainly! Below is a more concise version of the pitch in Markdown format suitable for a GitHub README:
-
----
 
 # Sonic Maze Explorer
 
@@ -23,9 +20,6 @@ Certainly! Below is a more concise version of the pitch in Markdown format suita
 
 - **Audio Cues**: Music provides essential hints, guiding players through the maze. High pitches signal correct paths, while dissonant tones warn of dead-ends.
 
-- **Interactive Obstacles**: Timed traps and moving walls are synced with the music, requiring players to listen closely for cues.
-
-- **Adaptive Difficulty**: The game adjusts in real-time based on player performance, maintaining an engaging challenge.
 
 ## Implementation Plan
 
@@ -36,17 +30,6 @@ Certainly! Below is a more concise version of the pitch in Markdown format suita
    - **Timbre** varies by maze section.
 3. **Gameplay Mechanics**:
    - **Movement**: Navigate using WASD/arrow keys.
-   - **Obstacles**: Sync obstacles with music cues for timed challenges.
    - **Audio Cues**: Guide players through the maze with harmonized melodies and alert tones.
-4. **Testing & Refinement**: Ensure smooth integration between music and gameplay through iterative playtesting.
-5. **Deployment**: Optimize for web browsers, ensuring broad compatibility and smooth performance.
 
-## Unique Selling Points
 
-- **Innovative Gameplay**: Combines real-time music generation with 3D puzzle-solving.
-- **Immersive Experience**: Procedurally generated mazes with adaptive audio create a fresh experience every time.
-- **Dynamic Difficulty**: Adapts to the player's skill, offering a tailored challenge.
-
----
-
-**Sonic Maze Explorer** blends cutting-edge AI-driven music with immersive gameplay, delivering a puzzle adventure where players navigate through a maze using both sight and sound.
