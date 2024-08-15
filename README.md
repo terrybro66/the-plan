@@ -23,12 +23,7 @@ Audio-Driven Gameplay:
 
 Players must rely on audio cues to navigate the maze. For example, a higher pitch may indicate proximity to the goal, while a change in rhythm may signal an approaching obstacle.
 The music not only adds atmosphere but also serves as an essential gameplay mechanic, helping players distinguish between correct and incorrect paths.
-Interactive Obstacles:
 
-The maze is filled with interactive obstacles such as laser traps, pits, and moving walls. These obstacles are synced with the music, requiring players to time their movements according to the rhythm and tempo of the soundtrack.
-Adaptive Difficulty:
-
-The game's difficulty adjusts dynamically based on the player's performance. The music becomes more complex and the maze more challenging as the player progresses, ensuring a constantly engaging experience.
 Detailed Implementation Plan:
 1. Game Environment Setup:
 Three.js will be used to create the 3D maze environment. The maze will be generated procedurally to offer a unique layout for each level, ensuring replayability.
