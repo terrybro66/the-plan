@@ -1,5 +1,5 @@
 
-# Sound Lamdscape
+# Sound Landscape
 
 Sound Landscape** is a 3D environment where players navigate a maze using both visual and auditory cues. Dynamic, real-time music adapts to the player's actions, guiding them through the maze
 
