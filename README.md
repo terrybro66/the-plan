@@ -1,13 +1,7 @@
 
-# Sonic Maze Explorer
+# Sound Lamdscape
 
-**Genre**: 3D Puzzle Adventure  
-**Platforms**: Web (Desktop & Mobile)  
-**Technologies**: React, Three.js, Magenta.js, Web Audio API
-
-## Overview
-
-**Sonic Maze Explorer** is a 3D puzzle game where players navigate a maze using both visual and auditory cues. Dynamic, real-time music adapts to the player's actions, guiding them through the maze while avoiding traps and solving puzzles. The game merges immersive 3D environments with procedurally generated music, creating a unique gameplay experience that intertwines sight and sound.
+Sound Landscape** is a 3D environment where players navigate a maze using both visual and auditory cues. Dynamic, real-time music adapts to the player's actions, guiding them through the maze
 
 ## Key Features
 
@@ -16,9 +10,9 @@
   - **Rhythm**: Reflects player movement and nearby obstacles.
   - **Timbre**: Changes with different maze sections.
 
-- **3D Maze**: Created using **Three.js**, each maze is procedurally generated, increasing in complexity with each level.
+- **3D Maze**: Created using **Three.js**.
 
-- **Audio Cues**: Music provides essential hints, guiding players through the maze. High pitches signal correct paths, while dissonant tones warn of dead-ends.
+- **Audio Cues**: Music provides essential hints, guiding players through the maze. 
 
 
 ## Implementation Plan
@@ -27,7 +21,7 @@
 2. **Music Integration**: Use **Magenta.js** to generate music that adapts to player actions:
    - **Pitch** increases as the player nears the exit.
    - **Rhythm** intensifies with speed and proximity to dangers.
-   - **Timbre** varies by maze section.
+   - **Timbre** varies by maze section and environment.
 3. **Gameplay Mechanics**:
    - **Movement**: Navigate using WASD/arrow keys.
    - **Audio Cues**: Guide players through the maze with harmonized melodies and alert tones.
